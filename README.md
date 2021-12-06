@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Isaac Martins
 
-- 🔭 Hoje trabalho com front a back-end
+- 🔭 Hoje trabalho com front e back-end
 - 🌱 Estudando Java e Cloud
 - 😄 Pronouns: ele/dele
 
